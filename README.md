@@ -1,4 +1,4 @@
-# Projeto_Arvores_de_Decisao_e_Florestas_Aleatorias
+# Projeto Árvores de Decisão e Florestas Aleatórias
 
 Para este projeto, estaremos explorando dados disponíveis publicamente de [LendingClub.com](www.lendingclub.com). 
 Lending Club conecta pessoas que precisam de dinheiro (mutuários) com pessoas que têm dinheiro (investidores). 
